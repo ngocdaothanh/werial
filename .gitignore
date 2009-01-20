@@ -1,0 +1,6 @@
+*.def
+*.exp
+*.manifest
+*.obj
+*.lib
+*.pdb
