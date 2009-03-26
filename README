@@ -1,8 +1,8 @@
 == Introduction
 
-Werial = Serial port reader for Ruby on Windows
+Werial = Serial port reader on Windows for Ruby
 
-This binding is simple. It only supports reading from a serial port, typically a virual port created by an emelator like GpsGate which is a USB-serial converter for GPS devices.
+This binding only supports reading from one serial port, which is typically a virtual one created by an emulator like GpsGate which is a USB-serial converter for GPS devices.
 
 == API
 
